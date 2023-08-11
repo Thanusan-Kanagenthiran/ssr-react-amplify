@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "paths": {
+    "/ssr": {
+      "name": "/ssr",
+      "lambdaFunction": "ssrreact03ae4350",
+      "permissions": {
+        "setting": "protected",
+        "auth": [
+          "read"
+        ],
+        "guest": [
+          "read"
+        ]
+      }
+    }
+  }
+}
